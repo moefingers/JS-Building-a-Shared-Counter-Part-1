@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.infinite-syndicate.com/js-exercises/shared-counter" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/shared-counter?theme=dark&v=cb57d3ce8b">
-    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/shared-counter?theme=light&v=cb57d3ce8b" alt="Click-to-increment counter built in vanilla JS with Bootstrap. Part 1 of a planned three-part series — local state only, no shared backend yet; later parts wire up json-server and finally a real persisted store." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/shared-counter?theme=dark&v=d318019fa0">
+    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/shared-counter?theme=light&v=d318019fa0" alt="Click-to-increment counter built in vanilla JS with Bootstrap. Part 1 of a planned three-part series — local state only, no shared backend yet; later parts wire up json-server and finally a real persisted store." width="100%">
   </picture>
 </a>
 
